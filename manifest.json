@@ -1,0 +1,240 @@
+{
+    "San Francisco Treat": {
+        "name": "San Francisco Treat",
+        "img": "treat.png",
+        "date": "10/14/2021",
+		"ratings": {
+            "Sam": {
+                "bread": "English Muffin",
+                "score": 7.5,
+                "notes": "N/A"
+            }
+        }
+    },
+    "Sausage Special": {
+        "name": "Sausage Special",
+        "img": "sausage.png",
+        "date": "10/14/2021",
+        "ratings": {
+            "Dillon": {
+                "bread": "Croissant",
+                "score": 7,
+                "notes": "Croissant was flaky and buttery, offering a melt-in-the-mouth feel. Sausage was perfectly cooked and gave notes of smoked applewood. A great breakfast at a good price!"
+            }
+        }
+    },
+    "Rated-R": {
+        "name": "Rated-R",
+        "img": "ratedr.png",
+        "date": "10/14/2021",
+        "ratings": {
+            "John": {
+                "bread": "Dutch",
+                "score": 9.5,
+                "notes": "The spicy mayo is the true hero of this adult sandwich, complimented well by the pepperjack cheese and a generous amount of chicken."
+            },
+	    "Sam": {
+                "bread": "French",
+                "score": 8.9,
+                "notes": "They mixed up my sandwich with Dilly Billy's."
+            }
+        }
+    },
+	"BLTA": {
+        "name": "BLTA",
+        "img": "BLTA-wheat.png",
+        "date": "10/14/2021",
+        "ratings": {
+            "Will": {
+                "bread": "Wheat",
+                "score": 7.5,
+                "notes": "Hearty portion of bacon."
+            }
+        }
+    },
+	"Peppermill": {
+        "name": "Peppermill",
+        "img": "peppermill.png",
+        "date": "10/14/2021",
+        "ratings": {
+            "Jake": {
+                "bread": "Dutch",
+                "score": 8,
+                "notes": "Lots of cheese."
+            },
+	   "Sam": {
+                "bread": "French",
+                "score": 8,
+                "notes": "Chewy Salami. Cajun Majo is a plus. "
+            }
+        }
+    },
+	"Hot Lava": {
+        "name": "Hot Lava",
+        "img": "hot-lava.png",
+        "date": "10/14/2021",
+        "ratings": {
+            "Erik": {
+                "bread": "Dutch",
+                "score": 8,
+                "notes": "\"It's fuckin' Dutch\""
+            }
+        }
+    },
+	"Prosciutto Pesto": {
+        "name": "Prosciutto Pesto",
+        "img": "pesto.png",
+        "date": "10/18/2021",
+        "ratings": {
+            "John": {
+                "bread": "Dutch",
+                "score": 6.8,
+                "notes": "Sandwich does not come toasted and they're a little heavy on the pesto. Overall good sandwich and recommend toasting."
+            }
+        }
+    },
+	"San Fran-Psycho": {
+        "name": "San Fran-Psycho",
+        "img": "san-fran-psyco.png",
+        "date": "10/18/2021",
+        "ratings": {
+            "Dillon": {
+                "bread": "Dutch",
+                "score": 8.5,
+                "notes": "The pesto and cajun mayo create a delightful harmony of savory and spice. The bacon adds a great touch and will be sure to satiate."
+            }
+        }
+    },
+	"The City Boy": {
+        "name": "The City Boy",
+        "img": "city-boy.png",
+        "date": "10/25/2021",
+        "ratings": {
+            "John": {
+                "bread": "Dutch",
+                "score": 8.8,
+                "notes": "BBQ sauce is not overpowering and serves to complement the roastness of the beef well."
+            }
+        }
+    },
+	"The Freak": {
+        "name": "The Freak",
+        "img": "freak.png",
+        "date": "10/25/2021",
+        "ratings": {
+            "Sam": {
+                "bread": "French",
+                "score": 8.875,
+                "notes": "Splendid! Simply delicious."
+            }
+        }
+    },
+	"Spitfire": {
+        "name": "Spitfire",
+        "img": "spitfire.png",
+        "date": "10/27/2021",
+        "ratings": {
+            "John": {
+                "bread": "Dutch",
+                "score": 7.1,
+                "notes": "Great mix of spice from the jalapenos and the siracha mayo. Don't expect to taste the bacon, however."
+            }
+        }
+    },
+	"Honey Baked": {
+        "name": "Honey Baked",
+        "img": "honey_baked.jpg",
+        "date": "10/27/2021",
+        "ratings": {
+            "Dillon": {
+                "bread": "Dutch",
+                "score": 8.0,
+                "notes": "Honey mustard was a little runny, but other than that it was great. Felt very light and healthy with the avocado and lack of heavy sauces."
+            }
+        }
+    },
+	"The Italian Wedding": {
+        "name": "The Italian Wedding",
+        "img": "italian-wedding.jpg",
+        "date": "11/2/2021",
+        "ratings": {
+            "Sam": {
+                "bread": "French",
+                "score": 2.7,
+                "notes": "Heavy on Pesto, it's a bit dry. It needs some sauce. I paid extra monies for the pepperoni. UPDATE: I got sick from this sandwich."
+            }
+        }
+    },
+	"Bacon Ranch": {
+        "name": "Bacon Ranch",
+        "img": "bacon-ranch.png",
+        "date": "11/2/2021",
+        "ratings": {
+            "John": {
+                "bread": "Dutch",
+                "score": 8.1,
+                "notes": "Ranch isn't overpowering and who doesn't love bacon."
+            }
+        }
+    },
+	"Escape From Alcatraz": {
+        "name": "Escape From Alcatraz",
+        "img": "escape.png",
+        "date": "11/9/2021",
+        "ratings": {
+            "Sam": {
+                "bread": "French",
+                "score": 8.8,
+                "notes": "It felt as if I was swimming across the cold San Francisco Bay into the warm Embarcadero."
+            }
+        }
+    },
+	"Godfather": {
+        "name": "Godfather",
+        "img": "godfather.png",
+        "date": "11/9/2021",
+        "ratings": {
+            "John": {
+                "bread": "Dutch",
+                "score": 7.2,
+                "notes": "The ovengold turkey and garlic butter gave me an offer I couldn't refuse."
+            }
+        }
+    },
+	"Bad Date": {
+        "name": "Bad Date",
+        "img": "bad-date.png",
+        "date": "11/15/2021",
+        "ratings": {
+            "John": {
+                "bread": "Dutch",
+                "score": 5.9,
+                "notes": "Turkey was a little cold and onions were a little overpowering."
+            }
+        }
+    },
+	"Darlicious": {
+        "name": "Darlicious",
+        "img": "darlicious.png",
+        "date": "11/22/2021",
+        "ratings": {
+            "John": {
+                "bread": "Dutch",
+                "score": 9.2,
+                "notes": "The avocado and bacon make the Darlicious simply delicious."
+            }
+        }
+    },
+	"Hangover": {
+        "name": "Hangover",
+        "img": "hangover.png",
+        "date": "12/1/2021",
+        "ratings": {
+            "John": {
+                "bread": "Dutch",
+                "score": 8.8,
+                "notes": "Solid sandwich that can't do wrong with the capocolla and cracked pepper turkey."
+            }
+        }
+    }
+}
